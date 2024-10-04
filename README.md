@@ -1,4 +1,6 @@
+===============================
 # Solidity Programming
+===============================
 
 ## Overview
 Solidity is an object-oriented programming language used for writing smart contracts that run on the Ethereum Virtual Machine (EVM). It is designed to target the Ethereum blockchain, but can also be used on other blockchain platforms that support smart contracts.
